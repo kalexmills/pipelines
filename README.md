@@ -5,7 +5,8 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/splunk/pipelines.svg)](https://pkg.go.dev/github.com/kalexmills/pipelines)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/kalexmills/pipelines?label=version)
 
-# splunk/pipelines
+# Pipelines
+_Originally [splunk/pipelines](https://github.com/splunk/pipelines)_.
 
 Manages concurrency using Go + Generics. Separate _what_ your code does from _how_ it runs on threads. 
 
