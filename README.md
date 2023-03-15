@@ -1,9 +1,9 @@
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/splunk/pipelines/test.yml?branch=main)
-[![Go Report Card](https://goreportcard.com/badge/github.com/splunk/pipelines)](https://goreportcard.com/report/github.com/splunk/pipelines)
-![Coveralls](https://img.shields.io/coveralls/github/splunk/pipelines)
-![GitHub](https://img.shields.io/github/license/splunk/pipelines)
-[![Go Reference](https://pkg.go.dev/badge/github.com/splunk/pipelines.svg)](https://pkg.go.dev/github.com/splunk/pipelines)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/splunk/pipelines?label=version)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/kalexmills/pipelines/test.yml?branch=main)
+[![Go Report Card](https://goreportcard.com/badge/github.com/splunk/pipelines)](https://goreportcard.com/report/github.com/kalexmills/pipelines)
+![Coveralls](https://img.shields.io/coveralls/github/kalexmills/pipelines)
+![GitHub](https://img.shields.io/github/license/kalexmills/pipelines)
+[![Go Reference](https://pkg.go.dev/badge/github.com/splunk/pipelines.svg)](https://pkg.go.dev/github.com/kalexmills/pipelines)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/kalexmills/pipelines?label=version)
 
 # splunk/pipelines
 
